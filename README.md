@@ -1,5 +1,11 @@
 # Bonduelle - Analyse financière, trésorerie et valorisation
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/bonduelle.png"
+       alt="Bonduelle - Analyse financière, trésorerie et valorisation"
+       width="100%">
+</p>
+
 ![Excel](https://img.shields.io/badge/Excel-Analyse%20financière-217346?logo=microsoft-excel&logoColor=white)
 ![Finance](https://img.shields.io/badge/Finance-Diagnostic%20et%20valorisation-2F6B3C)
 ![Période](https://img.shields.io/badge/Période-2021--2023-E8A317)
