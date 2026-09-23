@@ -1,7 +1,7 @@
 # Bonduelle - Analyse financière, trésorerie et valorisation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/bonduelle.png"
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/assets/bonduelle.png"
        alt="Bonduelle - Analyse financière, trésorerie et valorisation"
        width="100%">
 </p>
